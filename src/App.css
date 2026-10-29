@@ -1,0 +1,4 @@
+@import "tailwindcss";
+.nav-bar .active{
+   text-decoration: underline;
+}
